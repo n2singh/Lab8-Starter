@@ -2,7 +2,7 @@
 ---
 Naina Singh
 
-(https://n2singh.github.io/Lab8-Starter/)[https://n2singh.github.io/Lab8-Starter/]
+[https://n2singh.github.io/Lab8-Starter/](https://n2singh.github.io/Lab8-Starter/)
 
 **Part 2 - Explore**
 
